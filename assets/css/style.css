@@ -49,10 +49,11 @@ body {
     }
 
     .menu {width: 300px;
-        height: 539px;
+        height: 500px;
         background-color: red;
         opacity: 0, 9;
         padding:50px;
+        
         
 
     }
@@ -63,7 +64,9 @@ body {
             background-color: red;
             opacity: 0, 9;
             padding:50px;
+            
     }
+    
 
     .style {width: 900px;
         float: right;
@@ -123,3 +126,6 @@ color: black;
     text-align: center;
  }
  .contact h4 {text-align: center;}
+
+ 
+ 
