@@ -1,3 +1,16 @@
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    background: url("../images/food.jpg")
+}
+
+
+
+
+
+
+
 .box{
     width: 900px;
     float:right;
@@ -11,3 +24,12 @@
     text-align: center;
 
 }
+
+.box ul li a {
+    text-decoration: none;
+    color:black;
+}
+
+.box ul li:hover {
+    background-color: red;
+    }
