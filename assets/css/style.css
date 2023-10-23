@@ -10,6 +10,7 @@ body {
     width: 900px;
     float:right;
     border:1px solid black;
+    color:white;
 }
 
 .box ul li {
@@ -17,22 +18,23 @@ body {
     float:left;
     margin:10px auto;
     text-align: center;
+    color:red;
 
 }
 
 .box ul li a {
     text-decoration: none;
-    color:black;
+    color:red;
 }
 
 .box ul li:hover {
-    background-color: red;
+    background-color:white;
     }
 
     .first-text {
         width: 300px;
         height: 539px;
-        background-color: red;
+        background-color:red;
         opacity: 0,9;
         padding:55px;
         border-radius: 15px;
@@ -84,12 +86,12 @@ body {
     }
 
     .style ul li a {text-decoration: none;
-        color: black;
+        color: red;
 
     }
 
     .style ul li:hover {
-        background-color: red;
+        background-color:white;
     }
 
 
@@ -108,12 +110,12 @@ body {
 
 .con ul li a {
  text-decoration: none;
-color: black;
+color: red;
         
                 }
 
 .con ul li:hover {
-    background-color: red;
+    background-color:white;
 }
 
 .contact  {
