@@ -65,24 +65,48 @@ body {
             padding:50px;
     }
 
-    .stylemenu {width: 900px;
+    .style {width: 900px;
         float: right;
         border: 1px solid black;
 
     }
 
-    .stylemenu ul li {width: 120px;
+    .style ul li {width: 120px;
         float: left;
         margin: 10px auto;
         text-align: center;
 
     }
 
-    .stylemenu ul li a {text-decoration: none;
+    .style ul li a {text-decoration: none;
         color: black;
 
     }
 
-    .stylemenu ul li:hover {
+    .style ul li:hover {
         background-color: red;
     }
+
+
+    .con {
+        width: 900px;
+            float: right;
+            border: 1px solid black;
+    }
+.con ul li {
+      width: 120px;
+      float: left;
+   margin: 10px auto;
+            text-align: center;
+    
+        }
+
+.con ul li a {
+ text-decoration: none;
+color: black;
+        
+                }
+
+.con ul li:hover {
+    background-color: red;
+}
