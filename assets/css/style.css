@@ -43,7 +43,7 @@ body {
     .first-text h1 {
         text-align: center;
         text-transform: uppercase;
-        font: weight;
+        font-weight: normal;
     }
 
     .first-text h4 {
