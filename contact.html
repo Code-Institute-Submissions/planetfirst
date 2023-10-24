@@ -47,19 +47,22 @@
         <div>
         <label for="email-field" class="block-label">Email</label>
         <input id="email-field" type="email" name="email" placeholder="Your email" required>
-        
+        <div>
+            <div>
         <label for="number">How many are you?</label>
-        <br />
+        
         <input type="number" name="number" id="number" step="1" min="1" max="20" aria-label="How many are you?" required />
-        <br />
+        </div>
+        <div>
         <label for="date">When do you wish to visit?</label>
-        <br />
+        
         <input type="date" id="date" name="date" value="2023-08-30" min="2023-08-30" max="2024-03-15"
             aria-label="Which date do you want to visit us?" required />
         <br />
-        
-            <label for="time">Wich time do you want to eat?</label>
-            <input type="time" id="time" name="time" value="time" min="09.00" max="21.00">
+        </div>
+        <div>
+            <label for="appt">Select Time</label>
+            <input type="time" id="time" name="time" value="time" min="" max="">
         
         <button type="Send" class="button" aria-label="Reserv">Reserv Table </button>
      </div>
